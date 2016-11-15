@@ -1,8 +1,11 @@
 # ScreenSharing
-ScreenSharing
+
 语言：Java
+
 工具：Android Studio
+
 版本：1.0.0
+
 android平台上的“屏幕共享”技术，利用java反射原理实现 
 
 # 重要说明
